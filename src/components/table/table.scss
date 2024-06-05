@@ -16,13 +16,18 @@
     padding: 5px;
     border-radius: 5px;
 
-    &.Approved {
+    &.Aprovado {
       color: green;
       background-color: rgba(0, 128, 0, 0.151);
     }
-    &.Pending {
+    &.Pendente {
       color: goldenrod;
       background-color: rgba(189, 189, 3, 0.103);
+    }
+
+    &.Orlando {
+      color: rgb(32, 91, 218);
+      background-color: rgba(3, 77, 189, 0.103);
     }
   }
 }
