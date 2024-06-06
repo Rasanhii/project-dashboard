@@ -42,36 +42,36 @@ const Sidebar = () => {
           <Link to="/users" style={{ textDecoration: "none" }}>
             <li>
               <PersonOutlineIcon className="icon" />
-              <span>Users</span>
+              <span>Usuarios</span>
             </li>
           </Link>
           <Link to="/products" style={{ textDecoration: "none" }}>
             <li>
               <StoreIcon className="icon" />
-              <span>Products</span>
+              <span>Produtos</span>
             </li>
           </Link>
           <li>
             <CreditCardIcon className="icon" />
-            <span>Orders</span>
+            <span>Pedidos</span>
           </li>
           <li>
             <LocalShippingIcon className="icon" />
             <span>Delivery</span>
           </li>
-          <p className="title">USEFUL</p>
+          <p className="title">UTILIDADE</p>
           <li>
             <InsertChartIcon className="icon" />
             <span>Stats</span>
           </li>
           <li>
             <NotificationsNoneIcon className="icon" />
-            <span>Notifications</span>
+            <span>Notificações</span>
           </li>
-          <p className="title">SERVICE</p>
+          <p className="title">SERVIÇO</p>
           <li>
             <SettingsSystemDaydreamOutlinedIcon className="icon" />
-            <span>System Health</span>
+            <span>Sistema de Saúde</span>
           </li>
           <li>
             <PsychologyOutlinedIcon className="icon" />
@@ -79,7 +79,7 @@ const Sidebar = () => {
           </li>
           <li>
             <SettingsApplicationsIcon className="icon" />
-            <span>Settings</span>
+            <span>Definições</span>
           </li>
           <p className="title">USER</p>
           <li>
@@ -88,7 +88,7 @@ const Sidebar = () => {
           </li>
           <li>
             <ExitToAppIcon className="icon" />
-            <span>Logout</span>
+            <span>Sair</span>
           </li>
         </ul>
       </div>

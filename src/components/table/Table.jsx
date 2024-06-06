@@ -30,16 +30,6 @@ const List = () => {
       status: "Pendente",
     },
     {
-      id: "",
-      produto: "",
-      img: "https://i.pinimg.com/736x/17/40/49/1740494055a69974380191b58af2ad6b.jpg",
-      cliente: "Orlando Rosa",
-      data: "Infinito",
-      quantia: "Inestimável",
-      metodo: "",
-      status: "Orlando",
-    },
-    {
       id: 2357741,
       produto: "Razer Blade 15",
       img: "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_UY327_FMwebp_QL65_.jpg",

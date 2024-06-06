@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className="items">
           <div className="item">
             <LanguageOutlinedIcon className="icon" />
-            English
+            Português
           </div>
           <div className="item">
             <DarkModeOutlinedIcon
@@ -46,7 +46,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <img
-              src="https://images.pexels.com/photos/941693/pexels-photo-941693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Userbox_creeper.svg/2048px-Userbox_creeper.svg.png"
               alt=""
               className="avatar"
             />
